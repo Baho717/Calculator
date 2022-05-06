@@ -1,0 +1,14 @@
+/Users/benjaminaho/Projects/Calculator/Calculator/bin/Release/net5.0/Calculator.deps.json
+/Users/benjaminaho/Projects/Calculator/Calculator/bin/Release/net5.0/Calculator.runtimeconfig.json
+/Users/benjaminaho/Projects/Calculator/Calculator/bin/Release/net5.0/Calculator.runtimeconfig.dev.json
+/Users/benjaminaho/Projects/Calculator/Calculator/bin/Release/net5.0/Calculator.dll
+/Users/benjaminaho/Projects/Calculator/Calculator/bin/Release/net5.0/ref/Calculator.dll
+/Users/benjaminaho/Projects/Calculator/Calculator/bin/Release/net5.0/Calculator.pdb
+/Users/benjaminaho/Projects/Calculator/Calculator/obj/Release/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjaminaho/Projects/Calculator/Calculator/obj/Release/net5.0/Calculator.AssemblyInfoInputs.cache
+/Users/benjaminaho/Projects/Calculator/Calculator/obj/Release/net5.0/Calculator.AssemblyInfo.cs
+/Users/benjaminaho/Projects/Calculator/Calculator/obj/Release/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/benjaminaho/Projects/Calculator/Calculator/obj/Release/net5.0/Calculator.dll
+/Users/benjaminaho/Projects/Calculator/Calculator/obj/Release/net5.0/ref/Calculator.dll
+/Users/benjaminaho/Projects/Calculator/Calculator/obj/Release/net5.0/Calculator.pdb
+/Users/benjaminaho/Projects/Calculator/Calculator/obj/Release/net5.0/Calculator.genruntimeconfig.cache
